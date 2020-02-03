@@ -1,0 +1,27 @@
+<svg width="1000" height="1000"
+xmlns="http://www.w3.org/2000/svg">
+<line x1="150" y1="600" x2="150" y2="850"
+style="stroke:purple;stroke-width:3"/>
+<line x1="150" y1="600" x2="600" y2="600"
+style="stroke:purple;stroke-width:3"/>
+<rect x="200" y="600" width="50" height="1.63255e+006"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="473855"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="276317"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="1.51981e+006"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="211940"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="1.32078e+006"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="654826"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="1.37591e+006"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="424623"
+style="fill:blue;"/>
+<rect x="200" y="600" width="50" height="316696"
+style="fill:blue;"/>
+</svg>
